@@ -56,8 +56,8 @@ xgrid();
 
 ## OUTPUT 
 
-<img width="757" height="777" alt="Screenshot 2026-05-28 113743" src="https://github.com/user-attachments/assets/3a02c690-3c00-4712-9c7b-6453d2460843" />
 
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/3c5bdf42-f31e-4706-8f2a-ac72a30847f7" />
 
 
 ## Result:
